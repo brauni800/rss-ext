@@ -1,0 +1,10 @@
+{
+    "name": "RSS Extension",
+    "version": "1.0",
+    "description": "Extención para RSS",
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "manifest_version": 2
+}
